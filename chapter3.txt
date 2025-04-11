@@ -1,0 +1,10 @@
+second done now its time for third 
+wish me luck!
+
+class{
+    main{
+        sysout "Heavy code"
+    }
+}
+
+completed chapter 3. hehe!
